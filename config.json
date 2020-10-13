@@ -1,12 +1,14 @@
 {
   "learningTrack": "Python",
   "userName": "xorlv",
-  "taskCount": 1,
+  "taskCount": 2,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
-    "5564n374578qgyq1iutd88ja457gg1ns7on2"
+    "5564n374578qgyq1iutd88ja457gg1ns7on2",
+    "ir424bywqzq5nttaa9vtih76bvxesawt727a"
   ],
   "userSubmittedFiles": [
-    "task1.py"
+    "task1.py",
+    "task2.py"
   ]
 }
